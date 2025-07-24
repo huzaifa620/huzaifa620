@@ -44,10 +44,3 @@
 </p>
 
 ---
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=huzaifa620&show_icons=true&theme=radical" alt="Huzaifa's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=huzaifa620&theme=radical" alt="GitHub Streak" />
-</p>
