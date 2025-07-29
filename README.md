@@ -19,17 +19,17 @@
 
 ### 🏆 Recent Highlight
 
-🚀 **Winner (3rd Prize)** in the **AI Track** at the **Solana Breakout Hackathon** out of **8,300+ global submissions** for building **Agent Arc** — a trustless AI trading terminal powered by **LLMs + Neural Networks** on Solana.
-👉 [Read the blog](https://medium.com/@huzaifa6201/building-agent-arc-a-trustless-ai-trading-terminal-on-solana-ff98c6f02b13) | [Try the Beta](https://beta.agentarc.ai/)
+🚀 **Winner (3rd Prize)** in the **AI Track** at the **Solana Breakout Hackathon** out of **8,300+ global submissions** for building **Agent Arc** — a trustless AI trading terminal powered by **LLMs + Neural Networks** on Solana.  
+👉 [Read the build blog](https://medium.com/@huzaifa6201/building-agent-arc-a-trustless-ai-trading-terminal-on-solana-ff98c6f02b13)  
+🏅 [Official winners announcement](https://blog.colosseum.com/announcing-the-winners-of-the-solana-breakout-hackathon/)
 
 ---
 
 ### ⚡ Tech Stack
 
-- **Frontend:** Vue.js, React.js, Next.js, TailwindCSS
-- **Backend:** Django, Node.js, Express.js, ASP.NET Core
-- **Database:** PostgreSQL, MySQL, MongoDB
-- **Web3 & Blockchain:** Solana, Smart Contracts (ABI), Privy Login
+- **Frontend:** Vue.js, React.js, Next.js, TailwindCSS  
+- **Backend:** Django, Node.js, Express.js, ASP.NET Core  
+- **Database:** PostgreSQL, MySQL, MongoDB  
 - **Other:** REST APIs, JWT Authentication, Automation Scripts, Data Pipelines
 
 ---
