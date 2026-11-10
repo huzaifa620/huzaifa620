@@ -1,20 +1,28 @@
-<h1 align="center">Hi there, I'm Muhammad Huzaifa 👋</h1>
-<p align="center">Software Engineer · Full-Stack, Mobile & AI Systems · Karachi, Pakistan</p>
+<h1 align="center">Hi, I'm Muhammad Huzaifa 👋</h1>
+<p align="center">Software Engineer · Mobile, Full-Stack &amp; AI · Karachi, Pakistan</p>
 <br>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=huzaifa620&label=Profile%20views&color=0e75b6&style=flat" alt="mhuzaifa" />
-</p>
-
----
 
 ### 👨‍💻 About Me
 
-- 💼 Software Engineer with 3+ years on systems that are actually in production, mostly **Python (Django, FastAPI, Celery)** and **TypeScript (Next.js, NestJS, Vue.js)**.
-- 🤖 A good part of my current job is the **LLM side of a real-estate platform**: routing requests across Anthropic and OpenAI model tiers, RAG and semantic search over ~50,000 documents a month, and counting tokens so I know what each feature costs to run.
-- 📱 Shipped two **React Native** apps to the App Store and Play Store through an EAS Build/Submit pipeline.
-- 🧰 I spend a fair amount of the week on the unglamorous half: Celery workers, queues, CI pipelines, and reviewing other people's code.
-- 🎓 Computer & Information Systems Engineering, NED University. Two published papers.
+- 🧱 I build whole products: the mobile app, the backend and dashboards behind it, the AI features inside it, and the infrastructure that ships it.
+- 📱 In 2026 I built **five mobile products** and released **four** of them to the App Store and Google Play, as sole or lead engineer on most.
+- 🤖 At Rehani Soko I built **Hani**, an AI property concierge (app and backend), and ran the platform's **LLM layer** across Anthropic and OpenAI.
+- 🧰 I care about the unglamorous half too: CI gates, test coverage, infrastructure as code, and release pipelines.
+- 🎓 Computer & Information Systems Engineering, NED University. Two co-authored papers.
+
+---
+
+### 🚀 2026: 5 apps built, 4 live in the stores
+
+| App | What it is | iOS | Android | Web |
+|---|---|---|---|---|
+| **Wash42** | Car-wash booking & membership | [Live](https://apps.apple.com/us/app/wash42/id6803226300) | [Live](https://play.google.com/store/apps/details?id=com.wash42.app) | [PWA live](https://brave-smoke-0e0c01010.6.azurestaticapps.net) |
+| **HeadQuarters CRM** | Field-service CRM (sole engineer) | [Live](https://apps.apple.com/app/id6819401164) | In review | [Website](https://www.headquarterscrm.com) |
+| **Dugan Psychiatry** | Mental-health care with video visits | In review | [Live](https://play.google.com/store/apps/details?id=com.duganpsychiatry.app) | |
+| **Hani by Rehani** | AI property concierge (sole engineer) | [Live](https://apps.apple.com/app/id6830137760) | In review | |
+| **ProperTkt** | Maintenance tickets for landlords | In development | [Preview APK](https://expo.dev/artifacts/eas/EPoAdILqSzFw5Ch_cRjoZX5AWWK71vReFQS7CMUJGNo.apk) | [Website](https://www.propertkt.com) |
+
+<sub>These are client and employer products, so their source code is private. Stack across them: React Native, Expo, Next.js, React, FastAPI, Django, NestJS, PostgreSQL, Redis, AWS, Azure, Stripe.</sub>
 
 ---
 
@@ -22,7 +30,7 @@
 
 **[self-healing-rag](https://github.com/huzaifa620/self-healing-rag)** · A RAG service that critiques its own answers, refuses to guess, and can't be merged if it regresses.
 
-A LangGraph loop where a critic model grades every draft against the retrieved chunks and sends ungrounded ones back for a reformulated query. If it still can't ground the answer, it abstains instead of guessing. Every push runs 60 hand-verified golden pairs through a **cross-provider judge** (Claude grading GPT output) and GitHub Actions blocks the merge if hallucination rate goes above 5%. There's an open PR on the repo sitting red on purpose, to prove the gate actually fires.
+A LangGraph loop where a critic model grades every draft against the retrieved chunks and sends ungrounded ones back for a reformulated query. If it still can't ground the answer, it abstains instead of guessing. Every push runs 60 hand-verified golden pairs through a **cross-provider judge** (Claude grading GPT output), and GitHub Actions blocks the merge if the hallucination rate goes above 5%. There's an open PR on the repo sitting red on purpose, to prove the gate actually fires.
 
 <sub>Current: 4.4% hallucination · 0% false answers on unanswerable questions · 100% valid citations · ~$0.0005/query</sub>
 
@@ -38,12 +46,14 @@ A LangGraph loop where a critic model grades every draft against the retrieved c
 
 ### ⚡ Tech Stack
 
-- **Languages:** Python, JavaScript/TypeScript, C#
-- **Backend:** Django, FastAPI, Node.js, Express.js, NestJS, ASP.NET Core, Celery, REST, GraphQL
-- **Frontend:** React.js, Next.js, Vue.js, Nuxt, Tailwind CSS
-- **Mobile:** React Native, Expo, EAS Build/Submit, WebRTC, Socket.IO
-- **AI/LLM:** RAG, LangChain, LangGraph, agents & tool use, embeddings & vector search, structured output, LLM evals, Whisper/TTS
-- **Data & Infra:** PostgreSQL, MySQL, MongoDB, Redis, Docker, GitHub Actions, GitLab CI/CD, ETL & data pipelines
+- **Languages:** TypeScript, JavaScript, Python, SQL, C#
+- **Mobile:** React Native, Expo (EAS Build, Submit, Update), Expo Router, offline sync, push notifications, WebRTC, App Store & Google Play releases
+- **Frontend:** React, Next.js, Vue/Nuxt, Vite, Tailwind CSS, Redux Toolkit, TanStack Query, PWAs
+- **Backend:** FastAPI, Django, NestJS, Node.js, Celery, REST/OpenAPI, Socket.IO
+- **Data:** PostgreSQL, SQL Server, MongoDB, Redis
+- **AI/LLM:** Anthropic & OpenAI APIs, multi-model routing, vision, structured output, RAG, LangChain, LangGraph, embeddings, LLM evals, Whisper
+- **Cloud & DevOps:** AWS (CDK, EC2, S3, CloudFront, SES), Azure, Docker, GitHub Actions, GitLab CI, Vercel, Sentry
+- **Testing:** pytest, Jest, Playwright, Maestro, coverage gates in CI
 
 ---
 
@@ -63,5 +73,3 @@ A LangGraph loop where a critic model grades every draft against the retrieved c
   <a href="https://www.linkedin.com/in/muhammad-huzaifa-2a3821249/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://medium.com/@huzaifa6201"><img src="https://img.icons8.com/?size=50&id=59813&format=png" alt="Medium"/></a>
 </p>
-
----
