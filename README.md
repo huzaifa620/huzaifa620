@@ -8,7 +8,7 @@
 - 📱 In 2026 I built **five mobile products** and released **four** of them to the App Store and Google Play, as sole or lead engineer on most.
 - 🤖 At Rehani Soko I built **Hani**, an AI property concierge (app and backend), and ran the platform's **LLM layer** across Anthropic and OpenAI.
 - 🧰 I care about the unglamorous half too: CI gates, test coverage, infrastructure as code, and release pipelines.
-- 🎓 Computer & Information Systems Engineering, NED University. Two co-authored papers.
+- 🎓 Bachelor of Engineering (Computer Systems), NED University. Two co-authored papers.
 
 ---
 
