@@ -39,7 +39,7 @@ A LangGraph loop where a critic model grades every draft against the retrieved c
 <sub>
   <a href="https://medium.com/@huzaifa6201/building-agent-arc-a-trustless-ai-trading-terminal-on-solana-ff98c6f02b13">Build blog</a> ·
   <a href="https://blog.colosseum.com/announcing-the-winners-of-the-solana-breakout-hackathon/">Winners announcement</a> ·
-  <a href="https://arena.colosseum.org/projects/explore/agent-arc">Project page</a>
+  <a href="https://colosseum.com/arena/projects/agent-arc">Project page</a>
 </sub>
 
 ---
