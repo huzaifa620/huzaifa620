@@ -19,7 +19,7 @@
 | **Wash42** | Car-wash booking & membership | [Live](https://apps.apple.com/us/app/wash42/id6803226300) | [Live](https://play.google.com/store/apps/details?id=com.wash42.app) | [PWA live](https://brave-smoke-0e0c01010.6.azurestaticapps.net) |
 | **HeadQuarters CRM** | Field-service CRM (sole engineer) | [Live](https://apps.apple.com/app/id6819401164) | In review | [Website](https://www.headquarterscrm.com) |
 | **Dugan Psychiatry** | Mental-health care with video visits | In review | [Live](https://play.google.com/store/apps/details?id=com.duganpsychiatry.app) | [Website](https://duganpsychiatry.com/) |
-| **Hani by Rehani** | AI property concierge (sole engineer) | [Live](https://apps.apple.com/app/id6830137760) | In review | [Website](https://www.rehanisoko.com/app) |
+| **Hani by Rehani** | AI property concierge (sole engineer) | [Live](https://apps.apple.com/app/id6830137760) | [Live](https://play.google.com/store/apps/details?id=com.rehanisoko.hani) | [Website](https://www.rehanisoko.com/app) |
 | **ProperTkt** | Maintenance tickets for landlords | In development | [Preview APK](https://expo.dev/artifacts/eas/EPoAdILqSzFw5Ch_cRjoZX5AWWK71vReFQS7CMUJGNo.apk) | [Website](https://www.propertkt.com) |
 
 <sub>These are client and employer products, so their source code is private. Stack across them: React Native, Expo, Next.js, React, FastAPI, Django, NestJS, PostgreSQL, Redis, AWS, Azure, Stripe.</sub>
