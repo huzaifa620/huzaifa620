@@ -5,14 +5,14 @@
 ### 👨‍💻 About Me
 
 - 🧱 I build whole products: the mobile app, the backend and dashboards behind it, the AI features inside it, and the infrastructure that ships it.
-- 📱 In 2026 I built **five mobile products** and released **four** of them to the App Store and Google Play, as sole or lead engineer on most.
+- 📱 In 2026 I built **five mobile products** and released **all five** to the App Store and Google Play, as sole or lead engineer on most.
 - 🤖 At Rehani Soko I built **Hani**, an AI property concierge (app and backend), and ran the platform's **LLM layer** across Anthropic and OpenAI.
 - 🧰 I care about the unglamorous half too: CI gates, test coverage, infrastructure as code, and release pipelines.
 - 🎓 Bachelor of Engineering (Computer Systems), NED University. Two co-authored papers.
 
 ---
 
-### 🚀 2026: 5 apps built, 4 live in the stores
+### 🚀 2026: 5 apps built, all 5 live in the stores
 
 | App | What it is | iOS | Android | Web |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@
 | **HeadQuarters CRM** | Field-service CRM (sole engineer) | [Live](https://apps.apple.com/app/id6819401164) | [Live](https://play.google.com/store/apps/details?id=com.headquarterscrm.app) | [Website](https://www.headquarterscrm.com) |
 | **Dugan Psychiatry** | Mental-health care with video visits | In review | [Live](https://play.google.com/store/apps/details?id=com.duganpsychiatry.app) | [Website](https://duganpsychiatry.com/) |
 | **Hani by Rehani** | AI property concierge (sole engineer) | [Live](https://apps.apple.com/app/id6830137760) | [Live](https://play.google.com/store/apps/details?id=com.rehanisoko.hani) | [Website](https://www.rehanisoko.com/app) |
-| **ProperTkt** | Maintenance tickets for landlords | In development | [Preview APK](https://expo.dev/artifacts/eas/EPoAdILqSzFw5Ch_cRjoZX5AWWK71vReFQS7CMUJGNo.apk) | [Website](https://www.propertkt.com) |
+| **ProperTkt** | Maintenance tickets for landlords | [Live](https://apps.apple.com/app/propertkt/id6837506452) | Coming soon | [Website](https://www.propertkt.com) |
 
 <sub>These are client and employer products, so their source code is private. Stack across them: React Native, Expo, Next.js, React, FastAPI, Django, NestJS, PostgreSQL, Redis, AWS, Azure, Stripe.</sub>
 
