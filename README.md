@@ -20,7 +20,7 @@
 | **HeadQuarters CRM** | Field-service CRM (sole engineer) | [Live](https://apps.apple.com/app/id6819401164) | [Live](https://play.google.com/store/apps/details?id=com.headquarterscrm.app) | [Website](https://www.headquarterscrm.com) |
 | **Dugan Psychiatry** | Mental-health care with video visits | In review | [Live](https://play.google.com/store/apps/details?id=com.duganpsychiatry.app) | [Website](https://duganpsychiatry.com/) |
 | **Hani by Rehani** | AI property concierge (sole engineer) | [Live](https://apps.apple.com/app/id6830137760) | [Live](https://play.google.com/store/apps/details?id=com.rehanisoko.hani) | [Website](https://www.rehanisoko.com/app) |
-| **ProperTkt** | Maintenance tickets for landlords | [Live](https://apps.apple.com/app/propertkt/id6837506452) | Coming soon | [Website](https://www.propertkt.com) |
+| **ProperTkt** | Maintenance tickets for landlords | [Live](https://apps.apple.com/app/propertkt/id6837506452) | In review | [Website](https://www.propertkt.com) |
 
 <sub>These are client and employer products, so their source code is private. Stack across them: React Native, Expo, Next.js, React, FastAPI, Django, NestJS, PostgreSQL, Redis, AWS, Azure, Stripe.</sub>
 
