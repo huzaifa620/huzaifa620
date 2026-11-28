@@ -70,6 +70,6 @@ A LangGraph loop where a critic model grades every draft against the retrieved c
   <a href="https://huzaifa620.github.io"><img src="https://img.icons8.com/bubbles/50/000000/domain.png" alt="Portfolio"/></a>
   <a href="mailto:huzaifa62012@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
   <a href="https://github.com/huzaifa620"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://www.linkedin.com/in/muhammad-huzaifa-2a3821249/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-siddiq-2a3821249/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
   <a href="https://medium.com/@huzaifa6201"><img src="https://img.icons8.com/?size=50&id=59813&format=png" alt="Medium"/></a>
 </p>
